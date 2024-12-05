@@ -1,0 +1,2 @@
+Maksimal 3
+http://proxyserver.example.com:8080
