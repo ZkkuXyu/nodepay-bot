@@ -1,0 +1,2 @@
+ID_TOKEN="your_nodepay_id_token"
+USER_EMAIL=your_email@example.com
