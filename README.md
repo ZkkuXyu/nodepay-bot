@@ -40,6 +40,9 @@
 
    Anda akan diminta untuk memilih apakah ingin menggunakan proxy atau tidak. Jika ya, bot akan menggunakan proxy yang telah Anda masukkan; jika tidak, bot akan menggunakan IP VPS pengguna.
 
+## MIT LICENCE
+
+
 ## Struktur Proyek
 
 ```
