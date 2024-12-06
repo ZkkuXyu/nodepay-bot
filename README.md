@@ -50,7 +50,3 @@ nodepay-bot/
 ├── token.txt
 └── README.md
 ```
-
-## Keterangan
-
-Bot ini akan melakukan koneksi ke Nodepay Network, memastikan node berjalan dengan benar, da
