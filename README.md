@@ -41,7 +41,9 @@
    Anda akan diminta untuk memilih apakah ingin menggunakan proxy atau tidak. Jika ya, bot akan menggunakan proxy yang telah Anda masukkan; jika tidak, bot akan menggunakan IP VPS pengguna.
 
 ## MIT LICENCE
+Saya memberikan izin kepada pengguna lain untuk menggunakan, memodifikasi, dan mendistribusikan perangkat lunak sesuai dengan ketentuan lisensi MIT.
 
+NOTE MEMODIFIKASI DAN MEMPERBARUI BOT YANG TELAH DI BUAT
 
 ## Struktur Proyek
 
